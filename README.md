@@ -6,4 +6,6 @@ For example, someone in NetDevOps creates a Python script. They share that scrip
 
 Torero handles all of that to make your automation artifact more portable. In the case of our Python script example, Torero will read a standard Python requirements.txt file and use that to build an environment that can run the script.
 
+This repo allows me to do a barebones "hello world" style of test done with torero.
+
 More about torero at https://torero.dev/
